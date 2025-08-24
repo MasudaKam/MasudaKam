@@ -8,7 +8,6 @@
 
 - Certified Pharmacy Technician
 
-- I’m currently sharing my journey by posting projects as I work through my IST coursework.
 
 
 🛠️ Technical Skills
@@ -27,7 +26,9 @@ Other: Microsoft Office Suite (Word, Excel, PowerPoint)
 🤝 Professional Skills
 
 Clear communicator across technical and non-technical teams
+
 Service-driven mindset from healthcare and retail experience
+
 Strong organizational and problem-solving skills
 
 Collaborative team player with attention to detail
